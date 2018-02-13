@@ -13,7 +13,7 @@
         success = me.checkFn(success) ? success : function(){};
 
         var opts = {
-            successLabelTip:  "Successfully Verified",
+            successLabelTip:  "INAUGURATED",
             duration:  200,
             swipestart:  false,
             min:  0,
