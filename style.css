@@ -1,0 +1,9 @@
+body{
+	background-image: url("bg.png");
+}
+
+.logo{
+	margin-left: -40px;
+	width: 40%;
+	margin: auto;
+}
